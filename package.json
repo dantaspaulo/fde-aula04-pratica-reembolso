@@ -1,0 +1,11 @@
+{
+  "name": "fde-aula04-pratica-reembolso",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "test": "node --test"
+  },
+  "engines": {
+    "node": ">=18"
+  }
+}
